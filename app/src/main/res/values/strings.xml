@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Color Picker</string>
+    <string name="red_value">Red: 0</string>
+    <string name="green_value">Green: 0</string>
+    <string name="blue_value">Blue: 0</string>
+    <string name="rgb_values">RGB(0, 0, 0)</string>
+</resources>
